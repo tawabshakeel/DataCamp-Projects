@@ -31,7 +31,7 @@ Process ingredient lists for cosmetics on Sephora then visualize similarity usin
 
 ## Up and Down With the Kardashians
 Plot Google Trends data to find the most famous Kardashian/Jenner sister. Is it Kim? Kendall? Kylie?
-* [Comparing Cosmetics by Ingredients](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Comparing%20Cosmetics%20by%20Ingredients)
+* [Up and Down With the Kardashians](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)
 
 
 
