@@ -34,6 +34,10 @@ Plot Google Trends data to find the most famous Kardashian/Jenner sister. Is it 
 * [Up and Down With the Kardashians](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)
 
 
+## The Android App Market on Google Play
+Load, clean, and visualize scraped Google Play Store data to understand the Android app market.
+* [The Android App Market on Google Play](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)
+
 
 
 
