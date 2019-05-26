@@ -25,6 +25,11 @@ You will explore the market capitalization of Bitcoin and other cryptocurrencies
 Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity.
 * [Find Movie Similarity from Plot Summaries](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries)
 
+## Comparing Cosmetics by Ingredients
+Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh.
+* [Comparing Cosmetics by Ingredients](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Comparing%20Cosmetics%20by%20Ingredients)
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
