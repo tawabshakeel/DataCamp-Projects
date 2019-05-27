@@ -39,6 +39,10 @@ Load, clean, and visualize scraped Google Play Store data to understand the Andr
 * [The Android App Market on Google Play](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20Android%20App%20Market%20on%20Google%20Play)
 
 
+## Predict Stock Trends from News Headlines
+Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight.
+* [Predict Stock Trends from News Headlines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20Android%20App%20Market%20on%20Google%20Play)
+
 
 
 ## License
