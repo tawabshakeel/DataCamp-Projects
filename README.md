@@ -44,6 +44,11 @@ Scrape news headlines for FB and TSLA then apply sentiment analysis to generate 
 * [Predict Stock Trends from News Headlines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Predict%20Stock%20Trends%20from%20News%20Headlines)
 
 
+## Which Debts Are Worth the Bank's Effort?
+Play bank data scientist and use regression discontinuity to see which debts are worth collecting.
+* [Which Debts Are Worth the Bank's Effort](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort_)
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
