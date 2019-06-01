@@ -49,6 +49,11 @@ Play bank data scientist and use regression discontinuity to see which debts are
 * [Which Debts Are Worth the Bank's Effort](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort_)
 
 
+## Give Life: Predict Blood Donations
+Build a binary classifier to predict if a blood donor is likely to donate again.
+* [Give Life: Predict Blood Donations](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort_)
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
