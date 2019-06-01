@@ -51,7 +51,7 @@ Play bank data scientist and use regression discontinuity to see which debts are
 
 ## Give Life: Predict Blood Donations
 Build a binary classifier to predict if a blood donor is likely to donate again.
-* [Give Life: Predict Blood Donations](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort_)
+* [Give Life: Predict Blood Donations](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Give%20Life_%20Predict%20Blood%20Donations)
 
 
 
