@@ -53,9 +53,15 @@ Play bank data scientist and use regression discontinuity to see which debts are
 Build a binary classifier to predict if a blood donor is likely to donate again.
 * [Give Life: Predict Blood Donations](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Give%20Life_%20Predict%20Blood%20Donations)
 
+
 ## TV, Halftime Shows, and the Big Game
 Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
 * [TV, Halftime Shows, and the Big Game](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
+
+
+## Naïve Bees: Deep Learning with Images
+Build a deep learning model that can automatically detect honey bees and bumble bees in images.
+* [Naïve Bees: Deep Learning with Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 
 
 ## License
