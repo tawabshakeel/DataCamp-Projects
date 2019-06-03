@@ -66,7 +66,7 @@ Build a deep learning model that can automatically detect honey bees and bumble 
 
 ## ASL Recognition with Deep Learning
 Build a convolutional neural network to classify images of letters from American Sign Language.
-* [ASL Recognition with Deep Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Deep%20Learning%20with%20Images)
+* [ASL Recognition with Deep Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/ASL%20Recognition%20with%20Deep%20Learning)
 
 
 ## License
