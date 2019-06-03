@@ -61,7 +61,7 @@ Load, clean, and explore Super Bowl data in the age of soaring ad costs and flas
 
 ## Naïve Bees: Deep Learning with Images
 Build a deep learning model that can automatically detect honey bees and bumble bees in images.
-* [Naïve Bees: Deep Learning with Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
+* [Naïve Bees: Deep Learning with Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Deep%20Learning%20with%20Images)
 
 
 ## License
