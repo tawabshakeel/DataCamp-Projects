@@ -64,5 +64,10 @@ Build a deep learning model that can automatically detect honey bees and bumble 
 * [Naïve Bees: Deep Learning with Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Deep%20Learning%20with%20Images)
 
 
+## ASL Recognition with Deep Learning
+Build a convolutional neural network to classify images of letters from American Sign Language.
+* [ASL Recognition with Deep Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Deep%20Learning%20with%20Images)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
