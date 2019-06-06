@@ -69,5 +69,10 @@ Build a convolutional neural network to classify images of letters from American
 * [ASL Recognition with Deep Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/ASL%20Recognition%20with%20Deep%20Learning)
 
 
+## Reducing Traffic Mortality in the USA
+How can we find a good strategy for reducing traffic-related deaths?
+* [Reducing Traffic Mortality in the USA](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/ASL%20Recognition%20with%20Deep%20Learning)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
