@@ -74,5 +74,10 @@ How can we find a good strategy for reducing traffic-related deaths?
 * [Reducing Traffic Mortality in the USA](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Reducing%20Traffic%20Mortality%20in%20the%20USA)
 
 
+## Do Left-handed People Really Die Young?
+Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.
+* [Do Left-handed People Really Die Young?](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Do%20Left-handed%20People%20Really%20Die%20Young_)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
