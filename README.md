@@ -71,7 +71,7 @@ Build a convolutional neural network to classify images of letters from American
 
 ## Reducing Traffic Mortality in the USA
 How can we find a good strategy for reducing traffic-related deaths?
-* [Reducing Traffic Mortality in the USA](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/ASL%20Recognition%20with%20Deep%20Learning)
+* [Reducing Traffic Mortality in the USA](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Reducing%20Traffic%20Mortality%20in%20the%20USA)
 
 
 ## License
