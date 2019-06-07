@@ -86,7 +86,7 @@ Find the true Scala experts by exploring its development history in Git and GitH
 
 ## A Visual History of Nobel Prize Winners
 Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
-* [A Visual History of Nobel Prize Winners](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
+* [A Visual History of Nobel Prize Winners](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
 
 ## License
