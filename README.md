@@ -79,5 +79,10 @@ Use pandas and Bayesian statistics to see if left-handed people actually die ear
 * [Do Left-handed People Really Die Young?](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Do%20Left-handed%20People%20Really%20Die%20Young_)
 
 
+## The GitHub History of the Scala Language
+Find the true Scala experts by exploring its development history in Git and GitHub.
+* [The GitHub History of the Scala Language](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Do%20Left-handed%20People%20Really%20Die%20Young_)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
