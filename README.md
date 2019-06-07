@@ -91,7 +91,7 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 
 ## Who Is Drunk and When in Ames, Iowa?
 Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA.
-* [Who Is Drunk and When in Ames, Iowa](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+* [Who Is Drunk and When in Ames, Iowa](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa_)
 
 
 ## License
