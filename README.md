@@ -84,5 +84,10 @@ Find the true Scala experts by exploring its development history in Git and GitH
 * [The GitHub History of the Scala Language](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
 
 
+## A Visual History of Nobel Prize Winners
+Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+* [A Visual History of Nobel Prize Winners](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20GitHub%20History%20of%20the%20Scala%20Language)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
