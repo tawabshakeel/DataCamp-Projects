@@ -106,7 +106,7 @@ Check what passwords fail to conform to the National Institute of Standards and 
 
 ## Predicting Credit Card Approvals
 Build a machine learning model to predict if a credit card application will get approved.
-* [Predicting Credit Card Approvals](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines)
+* [Predicting Credit Card Approvals](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals)
 
 
 ## License
