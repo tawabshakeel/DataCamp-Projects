@@ -99,5 +99,10 @@ Build a model that can automatically detect honey bees and bumble bees in images
 * [Naïve Bees: Predict Species from Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
 
 
+## Bad passwords and the NIST guidelines
+Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
+* [Bad passwords and the NIST guidelines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
