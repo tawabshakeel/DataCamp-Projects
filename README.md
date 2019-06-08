@@ -96,7 +96,7 @@ Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA.
 
 ## Naïve Bees: Predict Species from Images
 Build a model that can automatically detect honey bees and bumble bees in images.
-* [Naïve Bees: Predict Species from Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa_)
+* [Naïve Bees: Predict Species from Images](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
 
 
 ## License
