@@ -104,5 +104,10 @@ Check what passwords fail to conform to the National Institute of Standards and 
 * [Bad passwords and the NIST guidelines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines)
 
 
+## Predicting Credit Card Approvals
+Build a machine learning model to predict if a credit card application will get approved.
+* [Predicting Credit Card Approvals](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
