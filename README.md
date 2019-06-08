@@ -101,7 +101,7 @@ Build a model that can automatically detect honey bees and bumble bees in images
 
 ## Bad passwords and the NIST guidelines
 Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
-* [Bad passwords and the NIST guidelines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
+* [Bad passwords and the NIST guidelines](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines)
 
 
 ## License
