@@ -106,7 +106,12 @@ Check what passwords fail to conform to the National Institute of Standards and 
 
 ## Predicting Credit Card Approvals
 Build a machine learning model to predict if a credit card application will get approved.
-* [Predicting Credit Card Approvals](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals)
+* [Predicting Credit Card Approvals](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals	)
+
+
+## Classify Song Genres from Audio Data
+Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+* [Classify Song Genres from Audio Data](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals	)
 
 
 ## License
