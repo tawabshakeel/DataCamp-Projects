@@ -116,7 +116,7 @@ Rock or rap? Apply machine learning methods in Python to classify songs into gen
 
 ## Mobile Games A/B Testing with Cookie Cats
 Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
-* [Mobile Games A/B Testing with Cookie Cats](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
+* [Mobile Games A/B Testing with Cookie Cats](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
 
 
 ## License
