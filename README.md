@@ -114,5 +114,10 @@ Rock or rap? Apply machine learning methods in Python to classify songs into gen
 * [Classify Song Genres from Audio Data](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
 
 
+## Mobile Games A/B Testing with Cookie Cats
+Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
+* [Mobile Games A/B Testing with Cookie Cats](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
