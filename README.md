@@ -121,7 +121,7 @@ Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
 
 ## Generating Keywords for Google Ads
 Automatically generate keywords for a search engine marketing campaign using Python.
-* [Generating Keywords for Google Ads](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
+* [Generating Keywords for Google Ads](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads)
 
 
 ## License
