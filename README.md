@@ -119,5 +119,10 @@ Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
 * [Mobile Games A/B Testing with Cookie Cats](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
 
 
+## Generating Keywords for Google Ads
+Automatically generate keywords for a search engine marketing campaign using Python.
+* [Generating Keywords for Google Ads](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
