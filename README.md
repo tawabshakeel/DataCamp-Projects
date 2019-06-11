@@ -126,7 +126,7 @@ Automatically generate keywords for a search engine marketing campaign using Pyt
 
 ## Name Game: Gender Prediction using Sound
 Analyze the gender distribution of children's book writers and use sound to match names to gender.
-* [Name Game: Gender Prediction using Sound](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads)
+* [Name Game: Gender Prediction using Sound](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Name%20Game_%20Gender%20Prediction%20using%20Sound)
 
 
 ## License
