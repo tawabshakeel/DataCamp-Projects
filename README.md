@@ -129,5 +129,10 @@ Analyze the gender distribution of children's book writers and use sound to matc
 * [Name Game: Gender Prediction using Sound](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Name%20Game_%20Gender%20Prediction%20using%20Sound)
 
 
+## Word Frequency in Moby Dick
+Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.
+* [Word Frequency in Moby Dick](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Name%20Game_%20Gender%20Prediction%20using%20Sound)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
