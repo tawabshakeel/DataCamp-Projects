@@ -131,7 +131,7 @@ Analyze the gender distribution of children's book writers and use sound to matc
 
 ## Word Frequency in Moby Dick
 Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.
-* [Word Frequency in Moby Dick](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Name%20Game_%20Gender%20Prediction%20using%20Sound)
+* [Word Frequency in Moby Dick](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
 
 
 ## License
