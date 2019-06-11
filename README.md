@@ -124,5 +124,10 @@ Automatically generate keywords for a search engine marketing campaign using Pyt
 * [Generating Keywords for Google Ads](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads)
 
 
+## Name Game: Gender Prediction using Sound
+Analyze the gender distribution of children's book writers and use sound to match names to gender.
+* [Name Game: Gender Prediction using Sound](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Generating%20Keywords%20for%20Google%20Ads)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
