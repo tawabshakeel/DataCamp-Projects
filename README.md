@@ -140,7 +140,7 @@ Use Natural Language Processing on NIPS papers to uncover the trendiest topics i
 
 ## A New Era of Data Analysis in Baseball
 Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
-* [A New Era of Data Analysis in Baseball](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20Hottest%20Topics%20in%20Machine%20Learning)
+* [A New Era of Data Analysis in Baseball](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
 
 
 ## License
