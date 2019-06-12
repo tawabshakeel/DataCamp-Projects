@@ -135,7 +135,7 @@ Use web scraping and NLP to find the most frequent words in Herman Melville's no
 
 ## The Hottest Topics in Machine Learning
 Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research.
-* [The Hottest Topics in Machine Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
+* [The Hottest Topics in Machine Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/The%20Hottest%20Topics%20in%20Machine%20Learning)
 
 
 ## License
