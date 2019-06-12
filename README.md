@@ -133,6 +133,10 @@ Analyze the gender distribution of children's book writers and use sound to matc
 Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.
 * [Word Frequency in Moby Dick](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
 
+## The Hottest Topics in Machine Learning
+Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research.
+* [The Hottest Topics in Machine Learning](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
