@@ -145,7 +145,7 @@ Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Gia
 
 ## Exploring the evolution of Linux
 Find out about the development of the Linux operating system by exploring its Git repository history.
-* [Exploring the evolution of Linux](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
+* [Exploring the evolution of Linux](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Exploring%20the%20evolution%20of%20Linux)
 
 
 ## License
