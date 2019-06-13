@@ -153,5 +153,10 @@ Use pandas to calculate and compare profitability and risk of different investme
 * [Risk and Returns: The Sharpe Ratio](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio)
 
 
+## Naïve Bees: Image Loading and Processing
+Load, transform, and understand images of honey bees and bumble bees in Python.
+* [Naïve Bees: Image Loading and Processing](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
