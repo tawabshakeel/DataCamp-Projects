@@ -155,7 +155,7 @@ Use pandas to calculate and compare profitability and risk of different investme
 
 ## Naïve Bees: Image Loading and Processing
 Load, transform, and understand images of honey bees and bumble bees in Python.
-* [Naïve Bees: Image Loading and Processing](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio)
+* [Naïve Bees: Image Loading and Processing](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
 
 
 ## License
