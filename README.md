@@ -150,7 +150,7 @@ Find out about the development of the Linux operating system by exploring its Gi
 
 ## Risk and Returns: The Sharpe Ratio
 Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
-* [Risk and Returns: The Sharpe Ratio](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Exploring%20the%20evolution%20of%20Linux)
+* [Risk and Returns: The Sharpe Ratio](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio)
 
 
 ## License
