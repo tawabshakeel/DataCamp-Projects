@@ -148,5 +148,10 @@ Find out about the development of the Linux operating system by exploring its Gi
 * [Exploring the evolution of Linux](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Exploring%20the%20evolution%20of%20Linux)
 
 
+## Risk and Returns: The Sharpe Ratio
+Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
+* [Risk and Returns: The Sharpe Ratio](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Exploring%20the%20evolution%20of%20Linux)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
