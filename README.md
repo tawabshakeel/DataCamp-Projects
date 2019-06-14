@@ -160,7 +160,7 @@ Load, transform, and understand images of honey bees and bumble bees in Python.
 
 ## Disney Movies and Box Office Success
 Explore Disney movie data, then build a linear regression model to predict box office success.
-* [Disney Movies and Box Office Success](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
+* [Disney Movies and Box Office Success](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
 
 
 ## License
