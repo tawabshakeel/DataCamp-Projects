@@ -158,5 +158,10 @@ Load, transform, and understand images of honey bees and bumble bees in Python.
 * [Naïve Bees: Image Loading and Processing](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
 
 
+## Disney Movies and Box Office Success
+Explore Disney movie data, then build a linear regression model to predict box office success.
+* [Disney Movies and Box Office Success](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
