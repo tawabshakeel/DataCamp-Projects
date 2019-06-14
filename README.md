@@ -163,5 +163,10 @@ Explore Disney movie data, then build a linear regression model to predict box o
 * [Disney Movies and Box Office Success](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
 
 
+## Book Recommendations from Charles Darwin
+Build a book recommendation system using NLP and the text of books like "On the Origin of Species."
+* [Book Recommendations from Charles Darwin](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
