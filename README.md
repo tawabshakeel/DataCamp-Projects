@@ -164,8 +164,14 @@ Explore Disney movie data, then build a linear regression model to predict box o
 
 
 ## Book Recommendations from Charles Darwin
-Build a book recommendation system using NLP and the text of books like "On the Origin of Species."
+Build a book recommendation system using NLP and the text of books like "On the Origin of Species.
 * [Book Recommendations from Charles Darwin](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Book%20Recommendations%20from%20Charles%20Darwin)
+
+
+
+## Recreating John Snow's Ghost Map
+Recreate John Snow's famous map of the 1854 cholera outbreak in London.
+* [Recreating John Snow's Ghost Map](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Book%20Recommendations%20from%20Charles%20Darwin)
 
 
 ## License
