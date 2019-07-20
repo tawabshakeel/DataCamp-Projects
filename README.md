@@ -175,7 +175,7 @@ Recreate John Snow's famous map of the 1854 cholera outbreak in London.
 
 ## Who's Tweeting? Trump or Trudeau?
 Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!
-* [Who's Tweeting? Trump or Trudeau?](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
+* [Who's Tweeting? Trump or Trudeau?](https://github.com/tawabshakeel/DataCamp-Projects/tree/master/Who's%20Tweeting_%20Trump%20or%20Trudeau_)
 
 
 
