@@ -173,6 +173,11 @@ Build a book recommendation system using NLP and the text of books like "On the 
 Recreate John Snow's famous map of the 1854 cholera outbreak in London.
 * [Recreating John Snow's Ghost Map](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
 
+## Who's Tweeting? Trump or Trudeau?
+Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!
+* [Who's Tweeting? Trump or Trudeau?](https://github.com/tawabshakeel/DataCamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tawabshakeel/DataCamp_Projects/blob/master/LICENSE) file for details
